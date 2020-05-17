@@ -1,0 +1,19 @@
+{
+  "name": "group9userdb",
+  "version": "1.0.0",
+  "description": "user database service for SIT737 Group 9",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deakin-Student-Assignment/group9userDB.git"
+  },
+  "author": "Connie Cox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deakin-Student-Assignment/group9userDB/issues"
+  },
+  "homepage": "https://github.com/Deakin-Student-Assignment/group9userDB#readme"
+}

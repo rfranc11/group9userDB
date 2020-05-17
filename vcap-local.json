@@ -1,0 +1,19 @@
+{
+    "services": {
+        "cloudantNoSQLDB": {
+            "credentials": {
+                "apikey": "pJM_MCvdkMtWDExX4sjPNVvrRTDa_gMlXYVKZ2F6OyK6",
+                "host": "5dd791a6-b6de-4dbd-b3ee-bf6f0516952c-bluemix.cloudantnosqldb.appdomain.cloud",
+                "iam_apikey_description": "Auto-generated for key 21951c06-bd7a-464c-bc4c-8bdcf2fb1e1b",
+                "iam_apikey_name": "db-credentials-manager",
+                "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+                "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/c76d38a3128f423ab02482bb39846e4b::serviceid:ServiceId-7853e900-9e5e-416b-8a57-01c38cb36acc",
+                "password": "381dd36192a912ea17b2186c2998bfb14dc8e2a506e1c94d71a992a9aecd9a4f",
+                "port": 443,
+                "url": "https://5dd791a6-b6de-4dbd-b3ee-bf6f0516952c-bluemix:381dd36192a912ea17b2186c2998bfb14dc8e2a506e1c94d71a992a9aecd9a4f@5dd791a6-b6de-4dbd-b3ee-bf6f0516952c-bluemix.cloudantnosqldb.appdomain.cloud",
+                "username": "5dd791a6-b6de-4dbd-b3ee-bf6f0516952c-bluemix"
+            },
+            "label": "cloudantNoSQLDB"
+        }
+    }
+}
