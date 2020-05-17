@@ -2,6 +2,11 @@
   "name": "group9userdb",
   "version": "1.0.0",
   "description": "user database service for SIT737 Group 9",
+  "dependencies": {
+    "cf-deployment-tracker-client": "*",
+    "express": "^4.17.1",
+    "moment": "^2.25.3"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
