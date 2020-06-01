@@ -1,23 +1,24 @@
 {
-  "name": "group9userdb",
+  "name": "serevr-mongodb",
   "version": "1.0.0",
-  "description": "user database service for SIT737 Group 9",
-  "dependencies": {
-    "express": "^4.17.1",
-    "moment": "^2.25.3"
-  },
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Deakin-Student-Assignment/group9userDB.git"
-  },
-  "author": "Connie Cox",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Deakin-Student-Assignment/group9userDB/issues"
+  "dependencies": {
+    "-": "0.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "mongoimport": "^1.0.6",
+    "mongoose": "^5.9.15",
+    "morgan": "^1.10.0"
   },
-  "homepage": "https://github.com/Deakin-Student-Assignment/group9userDB#readme"
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
